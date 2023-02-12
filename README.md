@@ -9,6 +9,6 @@
 
 •	Crie a seguinte classe de repositório abaixo para gravar os dados do produto em um arquivo TXT:
 
-![alt text](/imagens/entidadeRepositoryProduto.png "Diagrama Entidade e Repositório Produto")  
+![alt text](/imagens/entidadeRepositorioProduto.png "Diagrama Entidade e Repositório Produto")  
 
 •	Na classe Program, execute a exportação do arquivo TXT
